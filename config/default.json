@@ -3,5 +3,4 @@
   "jwtSecret" : "userJwtSecret",
   "githubClientId": "27d87116da78e02c67fe",
   "githubSecret": "aacb7aa6031809264252a29008715a797a6aaf5c"
-
 }
