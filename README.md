@@ -3,7 +3,7 @@
 
 > A social network where developers can present profile/portfolio, share posts, reconcile and get help from other developers. Built with MERN. (Mongodb, Express, 
 > React.Js and Node.js ).
-> visit https://dev-communityx.herokuapp.com/
+> visit  https://dev-com-ap.herokuapp.com/
 
 
 ---
